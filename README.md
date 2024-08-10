@@ -27,4 +27,8 @@ This project aims to address the following inquiries:
 2. **Popular Restaurant Types**: Which types of restaurants are the most favored by the general public?
 3. **Preferred Price Range**: What price range is preferred by couples for their dinner at restaurants?
 
-Open the provided Jupyter Notebook or Google Colab Notebook and follow the instructions to execute the analysis. You can access the notebook here:
+
+## Run the Analysis
+
+Open the provided Jupyter Notebook or Google Colab Notebook and follow the instructions to execute the analysis. You can access the notebook here: 
+https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Analysis%20Using%20Python.ipynb
