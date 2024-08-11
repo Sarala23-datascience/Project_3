@@ -34,4 +34,5 @@ Open the provided Jupyter Notebook or Google Colab Notebook and follow the instr
 https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Analysis%20Using%20Python.ipynb
 
 # Results
-![Example Image](images/example.png)
+![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Type_of_restaurants.png)
+## Conclusion: The majority of restaurants fall into dining category
