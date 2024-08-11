@@ -59,6 +59,12 @@ https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Anal
 
 
 
+![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Approx_cost_for_two_people.png)
+### Conclusion: The majority of couples prefer restaurant with an approximate cost of 300 rupees
+
+
+
+
 ![Example Image]()
 
 
