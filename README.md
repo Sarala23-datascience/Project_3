@@ -65,7 +65,15 @@ https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Anal
 
 
 
+![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Ratings%20of%20online_vs_offline.png)
+### Conclusion: Offline orders received less ratings as compared to online orders
+
+
+
+
 ![Example Image]()
+
+
 
 
 
