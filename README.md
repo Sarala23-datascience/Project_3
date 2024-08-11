@@ -33,9 +33,13 @@ This project aims to address the following inquiries:
 Open the provided Jupyter Notebook or Google Colab Notebook and follow the instructions to execute the analysis. You can access the notebook here: 
 https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Analysis%20Using%20Python.ipynb
 
-# Results
+## Results
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Type_of_restaurants.png)
-## Conclusion: The majority of restaurants fall into dining category
+### Conclusion: The majority of restaurants fall into dining category
+
+
+![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Votes_for_restaurants.png)
+### Conclusion: Dining restaurants are preffered by a large number of individuals
 
 
 ![Example Image]()
