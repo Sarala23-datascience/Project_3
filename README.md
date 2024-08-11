@@ -32,3 +32,6 @@ This project aims to address the following inquiries:
 
 Open the provided Jupyter Notebook or Google Colab Notebook and follow the instructions to execute the analysis. You can access the notebook here: 
 https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Analysis%20Using%20Python.ipynb
+
+# Results
+![Example Image](images/example.png)
