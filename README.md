@@ -41,38 +41,38 @@ https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Anal
 
 
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Votes_for_restaurants.png)
-**Conclusion**: Dining restaurants are preffered by a large number of individuals
+### Conclusion: Dining restaurants are preffered by a large number of individuals
 
 
 
 
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Online_orders.png)
-**Conclusion**: Majority of restaurants donot accept online orders
+### Conclusion: Majority of restaurants donot accept online orders
 
 
 
 
 
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Ratings.png)
-**Conclusion**: Majority of restaurants received ratings between 3.5 to 4
+### Conclusion: Majority of restaurants received ratings between 3.5 to 4
 
 
 
 
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Approx_cost_for_two_people.png)
-**Conclusion**: The majority of couples prefer restaurant with an approximate cost of 300 rupees
+### Conclusion: The majority of couples prefer restaurant with an approximate cost of 300 rupees
 
 
 
 
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Ratings%20of%20online_vs_offline.png)
-**Conclusion**: Offline orders received less ratings as compared to online orders
+### Conclusion: Offline orders received less ratings as compared to online orders
 
 
 
 
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Heatmap.png)
- **Conclusion**: Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants, but prefer online ordering at cafes. 
+ ### Conclusion: Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants, but prefer online ordering at cafes. 
 
 
 
