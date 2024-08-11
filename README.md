@@ -53,6 +53,12 @@ https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Anal
 
 
 
+![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Ratings.png)
+### Conclusion: Majority of restaurants received ratings between 3.5 to 4
+
+
+
+
 ![Example Image]()
 
 
