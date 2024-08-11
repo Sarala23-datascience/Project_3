@@ -36,3 +36,6 @@ https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Anal
 # Results
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Type_of_restaurants.png)
 ## Conclusion: The majority of restaurants fall into dining category
+
+
+![Example Image]()
