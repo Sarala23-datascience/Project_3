@@ -38,8 +38,23 @@ https://github.com/Sarala23-datascience/Project_3/blob/main/Zomato%20Data%20Anal
 ### Conclusion: The majority of restaurants fall into dining category
 
 
+
+
 ![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Votes_for_restaurants.png)
 ### Conclusion: Dining restaurants are preffered by a large number of individuals
 
 
+
+
+![Example Image](https://github.com/Sarala23-datascience/Project_3/blob/main/Online_orders.png)
+### Conclusion: Majority of restaurants donot accept online orders
+
+
+
+
+
 ![Example Image]()
+
+
+
+
